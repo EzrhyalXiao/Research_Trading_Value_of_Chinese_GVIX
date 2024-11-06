@@ -19,3 +19,4 @@ This paper introduces a novel approach to constructing a generalized volatility 
 
 ## 💻 Data and Code Availability
 - **GVIX Construction Code**: Available upon request.
+- **Manuscript and Latex Code**: Available after accepted by the journal.
