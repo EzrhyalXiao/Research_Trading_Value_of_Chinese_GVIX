@@ -5,10 +5,12 @@ This paper introduces a novel approach to constructing a generalized volatility 
 
 ## 🔍 Key Highlights
 - **Novel GVIX Construction**: A new method for constructing a GVIX that does not rely on the geometric Brownian motion assumption.
+![Chinese GVIX](https://raw.githubusercontent.com/EzrhyalXiao/Research_Trading_Value_of_Chinese_GVIX/main/fig/GVIX_time_series.png)
 - **Market Properties Examination**: Analysis of GVIX properties in the Chinese market with reference to existing literature.
 - **Performance Comparison**: GVIX is compared with other volatility indices based on the performance of option trading strategies using each index as the implied volatility input.
 
 ## 📈 Performance Metrics
+![PNL Comparison](https://raw.githubusercontent.com/EzrhyalXiao/Research_Trading_Value_of_Chinese_GVIX/main/fig/PNL%20Comparison.png)
 - **Annualized Returns**: GVIX-based strategies achieve the highest annualized returns of 47.62%.
 - **Sharpe Ratio**: A competitive Sharpe ratio of 1.94, indicating the effectiveness of GVIX in providing volatility information for option pricing.
 
